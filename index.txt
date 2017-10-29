@@ -1,0 +1,13 @@
+Hello dad!
+
+Welcome to "The Hunt"! This is essentially an online quest where I will give you a series of clues, and you will have to try and find
+the "answer" (which will be a number), and then give it to me and I will give you some coupons! Yay!
+
+Each clue, for example, "bananas", will be a hint for a place to go next, for example, https://mfc0.github.io/dadthing/bananas.txt. If
+you're ever stuck, you can totally ask for hints, as well. When I give you the first clue, it will basically be a hint for where on this
+website to go!
+
+Clue #1:
+
+c2Vjb25kY2x1ZS50eHQ=
+(base 64)
